@@ -1,19 +1,17 @@
-<img width="1885" height="793" alt="image" src="https://github.com/user-attachments/assets/e6a66d81-3ce7-42c6-bb30-6c0f140ed865" /># whoami-tiago
+# whoami-tiago
 
-Personal résumé landing page for **Tiago Machado**, front-end developer — a single-page site with a terminal-inspired dark UI, built as a lighter, more direct alternative to a traditional portfolio site.
+Personal résumé landing page for **Tiago Machado**, front-end developer — a single-page site with a western/adventure game menu-inspired UI, built as a lighter, more direct alternative to a traditional portfolio site.
 
-🔗 **Live site:** _add your deployed link here (e.g. Vercel)_
+🔗 **Live site:** [whoami-tiago.vercel.app](https://whoami-tiago.vercel.app/)
 
 ## Preview
 
-
-<img width="1672" height="802" alt="image" src="https://github.com/user-attachments/assets/8874e4ae-908b-4eee-bb77-2e53d2afe999" />
-
+<img width="1672" height="802" alt="preview" src="https://github.com/user-attachments/assets/8874e4ae-908b-4eee-bb77-2e53d2afe999" />
 
 ## Features
 
-- Terminal-style hero section (`whoami` prompt, blinking cursor)
-- Sections for About, Skills, Experience and Education, styled like code comments
+- Western/adventure game menu-inspired UI — leather and wine color palette, ornate gold dividers and corner frames
+- Sections for About, Skills, Experience and Education
 - Fully responsive, mobile-first layout
 - Smooth scroll navigation
 - Respects `prefers-reduced-motion`
@@ -24,7 +22,7 @@ Personal résumé landing page for **Tiago Machado**, front-end developer — a 
 - HTML5
 - CSS3 (custom properties / design tokens)
 - Vanilla JavaScript
-- [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) & [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
+- [Rye](https://fonts.google.com/specimen/Rye) & [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) via Google Fonts
 
 ## Running locally
 
