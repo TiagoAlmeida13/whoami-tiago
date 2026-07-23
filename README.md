@@ -7,7 +7,8 @@ Personal résumé landing page for **Tiago Machado**, front-end developer — a 
 ## Preview
 
 _add a screenshot here, e.g:_
-`<img width="1891" height="811" alt="image" src="https://github.com/user-attachments/assets/8abd7d71-db73-424d-a6a7-d11617ea808b" />
+`<img width="1891" height="811" alt="image" src="https://github.com/user-attachments/assets/001bf9f6-f3f0-4e7a-af93-fee4e7b20b0d" />
+
 `
 
 ## Features
